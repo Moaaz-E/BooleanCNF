@@ -1,0 +1,4 @@
+(executable
+ (public_name BooleanCNF)
+ (name main)
+ (libraries BooleanCNF str))
